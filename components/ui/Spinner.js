@@ -1,11 +1,8 @@
-// import spinner from '../../public/images/spinner.gif'
-import Image from 'next/image'
-
 const Spinner = () => {
     return (
         <div>
             <img
-            src='/images/Spinner.gif'
+            src='/images/spinner.gif'
             width='200px'
             margin='auto'
             display='block'
