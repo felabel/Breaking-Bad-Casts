@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is an app to search for breaking bad casts using the movie api. i built it with next js. just for fun
